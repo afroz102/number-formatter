@@ -1,0 +1,14 @@
+{
+    "name": "test-sort-array",
+    "version": "1.0.0",
+    "description": "sort an array by id",
+    "main": "index.js",
+    "engines": {
+        "node": ">=4.2.4"
+    },
+    "scripts": {
+        "test": "mocha --reporter spec"
+    },
+    "author": "afroz <afrozjmi102@gmail.com>",
+    "license": "MIT"
+}
